@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bubby201
 - 👀 I’m interested in ui/ux ,gaming
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning python,c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : vaish4721@gmail.com
+- 📫 How to reach me : bhavanapendyala9@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i have anxiety
 
