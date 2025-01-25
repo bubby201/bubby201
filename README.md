@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bubby201
-- 👀 I’m interested in ui/ux ,gaming
-- 🌱 I’m currently learning python,c++
+- 👀 I’m interested in ui/ux,ai,full stack
+- 🌱 I’m currently learning python,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : bhavanapendyala9@gmail.com
 - 😄 Pronouns: she/her
